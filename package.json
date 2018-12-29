@@ -1,0 +1,30 @@
+{
+  "name": "pickimages",
+  "version": "1.0.0",
+  "description": "pick and load images in webpages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerpinglemur/imagepicker.git"
+  },
+  "keywords": [
+    "HTML",
+    "image",
+    "picker",
+    "files",
+    "load",
+    "es6"
+  ],
+  "author": "Justin Lacy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lerpinglemur/imagepicker/issues"
+  },
+  "homepage": "https://github.com/lerpinglemur/imagepicker#readme",
+  "dependencies": {
+    "pickfiles": "^1.0.3"
+  }
+}
